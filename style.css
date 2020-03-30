@@ -36,6 +36,7 @@ img{
 
 h1{
     font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
 }
 
 h2{
@@ -45,6 +46,28 @@ h2{
 }
 p{
 	font-family: 'PT Sans', sans-serif;
-	font-size: 12px:
+	font-size: 12px;
+text-align:justify;
+}
 
+section{
+	margin: 0 auto;
+
+
+}
+
+header{
+	width:100%;
+	margin:0 auto;
+	padding:12px;
+}
+
+footer{
+	background:rgba();
+	width: 100% ; 
+
+}
+
+footer p{
+	text-align: center;
 }
